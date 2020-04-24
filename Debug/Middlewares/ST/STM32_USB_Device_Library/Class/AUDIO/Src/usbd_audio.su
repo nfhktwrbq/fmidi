@@ -1,0 +1,9 @@
+usbd_audio.c:211:10:USBD_AUDIO_GetDeviceQualifierDesc	16	static
+usbd_audio.c:225:16:USBD_AUDIO_Init	16	static
+usbd_audio.c:246:16:USBD_AUDIO_DeInit	16	static
+usbd_audio.c:265:17:USBD_AUDIO_GetCfgDesc	16	static
+usbd_audio.c:279:16:USBD_AUDIO_DataIn	16	static
+usbd_audio.c:307:16:USBD_AUDIO_SOF	16	static
+usbd_audio.c:322:16:USBD_AUDIO_DataOut	24	static
+usbd_audio.c:343:9:USBD_AUDIO_RegisterInterface	16	static
+usbd_audio.c:359:6:USBD_MIDI_SendPacket	16	static
