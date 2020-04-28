@@ -1,8 +1,0 @@
-usbd_audio_if.c:152:15:AUDIO_Init_FS	24	static
-usbd_audio_if.c:167:15:AUDIO_DeInit_FS	16	static
-usbd_audio_if.c:182:15:AUDIO_AudioCmd_FS	24	static
-usbd_audio_if.c:194:16:MIDI_DataTx_FS	24	static
-usbd_audio_if.c:210:16:MIDI_DataRx_FS	24	static
-usbd_audio_if.c:263:6:USBD_SendMidiMessages	8	static
-usbd_audio_if.c:280:6:USBD_AddNoteOn	32	static
-usbd_audio_if.c:294:6:USBD_AddNoteOff	32	static
